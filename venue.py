@@ -1,4 +1,3 @@
-# models/venue.py
 class Venue:
     def __init__(self, id, title, city):
         self.id = id
