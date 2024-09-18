@@ -1,5 +1,4 @@
 
-
 CREATE TABLE IF NOT EXISTS bands (
     id INTEGER PRIMARY KEY,
     name TEXT NOT NULL,
